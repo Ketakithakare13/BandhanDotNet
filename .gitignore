@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BandhanApp/BandhanApp/obj/Debug/net8.0/BandhanApp.AssemblyInfo.cs
+/BandhanApp/BandhanApp/obj/Debug/net8.0/BandhanApp.AssemblyInfoInputs.cache
+/BandhanApp/BandhanApp/obj/Debug/net8.0/BandhanApp.assets.cache
+/BandhanApp/BandhanApp/obj/Debug/net8.0/BandhanApp.GeneratedMSBuildEditorConfig.editorconfig
+/BandhanApp/.vs/BandhanApp/FileContentIndex/1167e67d-8042-44bd-b5e3-6f403246593f.vsidx
+/BandhanApp/.vs/BandhanApp/FileContentIndex/1f9dc0fd-d856-4b91-b78c-da64d5ecec67.vsidx

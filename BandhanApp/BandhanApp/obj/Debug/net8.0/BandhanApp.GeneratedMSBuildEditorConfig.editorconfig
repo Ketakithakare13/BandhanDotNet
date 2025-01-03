@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BandhanApp
 build_property.RootNamespace = BandhanApp
-build_property.ProjectDir = C:\Dac\Project\Dotnet\BandhanApp\BandhanApp\
+build_property.ProjectDir = D:\C-DAC\Cdac Project\Dotnetproject\BandhanApp\BandhanApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Dac\Project\Dotnet\BandhanApp\BandhanApp
+build_property.MSBuildProjectDirectory = D:\C-DAC\Cdac Project\Dotnetproject\BandhanApp\BandhanApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/Home/Index.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/Home/Privacy.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/Shared/Error.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/_ViewImports.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/_ViewStart.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Dac/Project/Dotnet/BandhanApp/BandhanApp/Views/Shared/_Layout.cshtml]
+[D:/C-DAC/Cdac Project/Dotnetproject/BandhanApp/BandhanApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mkjmcy2x1a
