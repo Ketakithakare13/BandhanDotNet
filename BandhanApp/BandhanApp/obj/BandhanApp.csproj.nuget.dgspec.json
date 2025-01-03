@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dac\\Project\\Dotnet\\BandhanApp\\BandhanApp\\BandhanApp.csproj": {}
+    "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj": {}
   },
   "projects": {
-    "C:\\Dac\\Project\\Dotnet\\BandhanApp\\BandhanApp\\BandhanApp.csproj": {
+    "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dac\\Project\\Dotnet\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
+        "projectUniqueName": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
         "projectName": "BandhanApp",
-        "projectPath": "C:\\Dac\\Project\\Dotnet\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
-        "packagesPath": "C:\\Users\\91951\\.nuget\\packages\\",
-        "outputPath": "C:\\Dac\\Project\\Dotnet\\BandhanApp\\BandhanApp\\obj\\",
+        "projectPath": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
+        "packagesPath": "C:\\Users\\masne\\.nuget\\packages\\",
+        "outputPath": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\91951\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\masne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,34 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
