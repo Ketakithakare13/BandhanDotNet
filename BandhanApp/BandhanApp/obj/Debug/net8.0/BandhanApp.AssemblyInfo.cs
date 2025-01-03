@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BandhanApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9d82a998ddefc79b04618fb6c588cff7e2aec4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6216c9e3a6434ba8a26bc425a5fba49365814f8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BandhanApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BandhanApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

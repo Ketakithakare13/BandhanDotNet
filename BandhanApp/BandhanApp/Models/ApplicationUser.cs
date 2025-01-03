@@ -23,7 +23,7 @@ namespace BandhanApp.Models
     }
 }
 
-namespace BandhanApp.Models
+namespace BandhanApp
 {
     public enum Gender
     {
