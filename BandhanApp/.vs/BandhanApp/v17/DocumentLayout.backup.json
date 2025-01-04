@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\repositories\\profileimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\repositories\\profileimagerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\infrastructure\\iprofileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\infrastructure\\iprofileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\bandhanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\bandhanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\bandhanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\bandhanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|solutionrelative:bandhanapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78442414-18C4-409A-A384-2B74DDC14883}|BandhanApp\\BandhanApp.csproj|d:\\c-dac\\cdac project\\dotnetproject\\bandhanapp\\bandhanapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,50 +75,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Program.cs",
-              "RelativeDocumentMoniker": "BandhanApp\\Program.cs",
-              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Program.cs*",
-              "RelativeToolTip": "BandhanApp\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACoAAAAAAAAAA==",
+              "Title": "ProfileImageRepo.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Repositories\\ProfileImageRepo.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Repositories\\ProfileImageRepo.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Repositories\\ProfileImageRepo.cs",
+              "RelativeToolTip": "BandhanApp\\Repositories\\ProfileImageRepo.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T18:11:45.753Z",
+              "WhenOpened": "2025-01-04T10:23:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProfileImage.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Infrastructure\\IProfileImage.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Infrastructure\\IProfileImage.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Infrastructure\\IProfileImage.cs",
+              "RelativeToolTip": "BandhanApp\\Infrastructure\\IProfileImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:21:46.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BandhanApp\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BandhanApp\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-03T18:03:31.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BandhanApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BandhanApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:24:05.961Z",
+              "WhenOpened": "2025-01-04T10:19:49.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BandhanApp",
+              "Title": "BandhanApp.csproj",
               "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
               "RelativeDocumentMoniker": "BandhanApp\\BandhanApp.csproj",
-              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj*",
-              "RelativeToolTip": "BandhanApp\\BandhanApp.csproj*",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\BandhanApp.csproj",
+              "RelativeToolTip": "BandhanApp\\BandhanApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-03T17:23:13.078Z",
@@ -98,7 +126,96 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T10:19:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwIYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:30:59.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BandhanApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEkAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T09:28:54.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BandhanApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BandhanApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-03T18:03:31.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BandhanApp\\appsettings.json",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\appsettings.json",
+              "RelativeToolTip": "BandhanApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T18:15:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Program.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Program.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Program.cs",
+              "RelativeToolTip": "BandhanApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:11:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BandhanApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BandhanApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:24:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Models\\Message.cs",
               "RelativeDocumentMoniker": "BandhanApp\\Models\\Message.cs",
@@ -106,12 +223,11 @@
               "RelativeToolTip": "BandhanApp\\Models\\Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:19:04.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T17:19:04.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\C-DAC\\Cdac Project\\DotnetProject\\BandhanApp\\BandhanApp\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BandhanApp\\Models\\ApplicationUser.cs",
@@ -119,8 +235,7 @@
               "RelativeToolTip": "BandhanApp\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA0wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:10:31.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T17:10:31.933Z"
             }
           ]
         }
