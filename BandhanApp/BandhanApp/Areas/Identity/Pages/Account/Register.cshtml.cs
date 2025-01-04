@@ -76,6 +76,24 @@ namespace BandhanApp.Areas.Identity.Pages.Account
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
             [Required]
+            public string Name { get; set; }
+            [Required]
+            public string City { get; set; }
+             [Required]
+             public DateTime BirthDate { get; set; }
+            [Required]
+            public int Age { get; set; }
+            [Required] 
+            public string Caste { get; set; }
+            public Gender Gender { get; set; }
+            [Required]
+            public string Occupation { get; set; }
+            public Double Salary { get; set; }
+            [Required]
+            public MaritialStatus MaritialStatus { get; set; }
+            public string ImagePath { get; set; }
+            public Religion Religion { get; set; }
+            [Required]
             [EmailAddress]
             [Display(Name = "Email")]
             public string Email { get; set; }
@@ -107,13 +125,16 @@ namespace BandhanApp.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
 
-        public async Task<IActionResult> OnPostAsync(string returnUrl = null)
+        public async Task<IActionResult> OnPostAsync(IFormFile file, string returnUrl = null)
         {
             returnUrl ??= Url.Content("~/");
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = CreateUser();
+                var user=new ApplicationUser { UserName=Input.Email, Email=Input.Email ,Name=Input.Name,City=Input.City,BirthDate=Input.BirthDate,Age=Input.Age,Caste=Input.Caste,Gender=Input.Gender,Occupation=Input.Occupation,Salary=Input.Salary,
+                    MaritialStatus=Input.MaritialStatus,Religion=Input.Religion,ImagePath=file.FileName
+                };
+                //var user = CreateUser();
 
                 await _userStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);

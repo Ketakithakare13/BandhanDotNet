@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BandhanApp.q2hibfe0yb.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 18:13:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 10:51:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BandhanApp/BandhanApp.q2hibfe0yb.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BandhanApp.q2hibfe0yb.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q2hibfe0yb"},{"Name":"integrity","Value":"sha256-DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM="},{"Name":"label","Value":"_content/BandhanApp/BandhanApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 18:13:12 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1128"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DnLIrDSOjHaIS9FGp/Mn\u002BCYqE40L9rLGShnSYppdTYM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 10:51:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BandhanApp/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
